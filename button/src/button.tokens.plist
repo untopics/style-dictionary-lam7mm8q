@@ -1,0 +1,30 @@
+
+//
+// button/src/button.tokens.plist
+//
+
+// Do not edit directly
+// Generated on Mon, 21 Nov 2022 12:13:17 GMT
+
+
+import SwiftUI
+
+public class  {
+    public static let StarterButtonOutlineBackground = transparent
+    public static let StarterButtonOutlineBorderColor = #171717
+    public static let StarterButtonOutlineBorderWidth = 0.125rem
+    public static let StarterButtonOutlineHoverBackground = #e5e5e5
+    public static let StarterButtonPrimaryActiveShadowColor = #115e59
+    public static let StarterButtonPrimaryActiveShadowWidth = 0.125rem
+    public static let StarterButtonPrimaryBackground = #14b8a6
+    public static let StarterButtonPrimaryBorderRadius = 0.25rem
+    public static let StarterButtonPrimaryBorderWidth = 1rem
+    public static let StarterButtonPrimaryDisabledBackground = #115e59
+    public static let StarterButtonPrimaryDisabledColor = #e5e5e5
+    public static let StarterButtonPrimaryHoverBackground = #99f6e4
+    public static let StarterButtonPrimaryHoverOutlineColor = #171717
+    public static let StarterButtonPrimaryHoverOutlineOffset = 0.0625rem
+    public static let StarterButtonPrimaryHoverOutlineWidth = 0.125rem
+    public static let StarterButtonPrimaryPaddingHorizontal = 1rem
+    public static let StarterButtonPrimaryPaddingVertical = 0.75rem
+}

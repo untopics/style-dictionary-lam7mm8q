@@ -1,4 +1,4 @@
-const coreAndSemanticTokens = ['color'];
+const coreAndSemanticTokens = ['color', 'border'];
 const componentTokens = ['button'];
 
 const tokenFilter = (cat) => (token) => {
@@ -51,11 +51,15 @@ module.exports = {
       buildPath: '',
       files: generateFilesArr(coreAndSemanticTokens, 'scss', 'scss/variables'),
     },
-    js: {
-      transformGroup: 'js',
+    ios: {
+      transformGroup: 'ios',
       prefix: 'starter',
       buildPath: '',
-      files: generateFilesArr(coreAndSemanticTokens, 'js', 'javascript/es6'),
+      files: generateFilesArr(
+        [...coreAndSemanticTokens, ...componentTokens],
+        'plist',
+        'ios-swift/class.swift'
+      ),
     },
   },
 };
