@@ -1,0 +1,15 @@
+{
+  "name": "@backlight-dev/honorable-depression-urqt5.style-dictionary-lam7mm8q",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve b3gNcZK4vWdfWiOXbRnk --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.2.0"
+  }
+}
