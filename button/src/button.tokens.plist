@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 21 Nov 2022 12:13:17 GMT
+// Generated on Mon, 21 Nov 2022 12:16:22 GMT
 
 
 import SwiftUI
@@ -16,7 +16,7 @@ public class  {
     public static let StarterButtonOutlineHoverBackground = #e5e5e5
     public static let StarterButtonPrimaryActiveShadowColor = #115e59
     public static let StarterButtonPrimaryActiveShadowWidth = 0.125rem
-    public static let StarterButtonPrimaryBackground = #14b8a6
+    public static let StarterButtonPrimaryBackground = #97317e
     public static let StarterButtonPrimaryBorderRadius = 0.25rem
     public static let StarterButtonPrimaryBorderWidth = 1rem
     public static let StarterButtonPrimaryDisabledBackground = #115e59
