@@ -1,0 +1,26 @@
+
+//
+// color/src/color.tokens.plist
+//
+
+// Do not edit directly
+// Generated on Mon, 21 Nov 2022 12:16:22 GMT
+
+
+import SwiftUI
+
+public class  {
+    public static let StarterCoreColorDarkBase = #171717
+    public static let StarterCoreColorDarkMild = #404040
+    public static let StarterCoreColorLightBase = #fafafa
+    public static let StarterCoreColorLightMild = #e5e5e5
+    public static let StarterCoreColorPrimaryBase = #97317e
+    public static let StarterCoreColorPrimaryDark = #115e59
+    public static let StarterCoreColorPrimaryLight = #99f6e4
+    public static let StarterCoreColorSecondaryBase = #f97316
+    public static let StarterCoreColorSecondaryDark = #9a3412
+    public static let StarterCoreColorSecondaryLight = #fed7aa
+    public static let StarterSemanticColorError = #ef4444
+    public static let StarterSemanticColorInfo = #0ea5e9
+    public static let StarterSemanticColorSuccess = #22c55e
+}

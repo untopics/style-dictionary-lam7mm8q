@@ -1,13 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Thu, 03 Mar 2022 12:40:35 GMT
+ * Generated on Mon, 21 Nov 2022 12:16:22 GMT
  */
 
 :root {
-  --starter-button-primary-background: #14b8a6;
+  --starter-button-primary-background: #97317e;
   --starter-button-primary-padding-horizontal: 1rem;
   --starter-button-primary-padding-vertical: 0.75rem;
   --starter-button-primary-border-radius: 0.25rem;
+  --starter-button-primary-border-width: 1rem;
   --starter-button-primary-hover-background: #99f6e4;
   --starter-button-primary-hover-outline-color: #171717;
   --starter-button-primary-hover-outline-offset: 0.0625rem;

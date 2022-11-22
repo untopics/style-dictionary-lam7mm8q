@@ -1,0 +1,16 @@
+
+//
+// border/src/border.tokens.plist
+//
+
+// Do not edit directly
+// Generated on Mon, 21 Nov 2022 12:16:22 GMT
+
+
+import SwiftUI
+
+public class  {
+    public static let StarterBorderLarge = 3
+    public static let StarterBorderMedium = 2px
+    public static let StarterBorderSmall = 1rem
+}

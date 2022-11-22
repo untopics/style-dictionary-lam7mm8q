@@ -19,6 +19,10 @@
         "radius": {
           "type": "borderRadius",
           "value": "0.25rem"
+        },
+        "width": {
+          "type": "spacing",
+          "value": "{border.small.value}"
         }
       },
       "hover": {
